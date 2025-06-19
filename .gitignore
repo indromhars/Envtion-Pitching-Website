@@ -1,0 +1,6 @@
+# Ignore large files
+venture-journey.pdf
+
+# Ignore common system files
+.DS_Store
+Thumbs.db 
